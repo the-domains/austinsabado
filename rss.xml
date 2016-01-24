@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[austinsabado]]></title>
         <description><![CDATA[austinsabado]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/austinsabado/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 24 Jan 2016 20:58:31 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 24 Jan 2016 21:01:37 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/austinsabado/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>Hi I'm Austin</p>]]></description>
-            <link>undefinedc13ac7b6-47e7-4764-bc90-e11c4954fd35/index.html</link>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/2b494b51-a35a-480b-ad27-42f5112d21f8.jpg">]]></description>
+            <link>https://thegrid.ai/austinsabado/c13ac7b6-47e7-4764-bc90-e11c4954fd35/index.html</link>
             <guid isPermaLink="false">c13ac7b6-47e7-4764-bc90-e11c4954fd35</guid>
-            <pubDate>Sun, 24 Jan 2016 20:58:31 GMT</pubDate>
+            <pubDate>Sun, 24 Jan 2016 21:01:36 GMT</pubDate>
         </item>
     </channel>
 </rss>
