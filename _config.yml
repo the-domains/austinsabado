@@ -1,7 +1,7 @@
 name: austinsabado
 favicon: null
 layout_spectrum: 0.32454836345277727
-typography_spectrum: 0.3614373239688575
+typography_spectrum: 0.32267
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#F7EDF0'
-    - '#F4CBC6'
-    - '#F4AFAB'
-    - '#F4EEA9'
-    - '#F4F482'
-  brandStrength: 0.5910895236302167
-  lightness: 0.9003588550258428
-  saturation: 0.16621486097574234
-  rhythmicContrast: 0.4792711844202131
+    - '#091e25'
+    - '#fefefe'
+    - '#49595a'
+    - '#7b7f77'
+    - '#c6c3b7'
+  brandStrength: 0
+  lightness: 0
+  saturation: 1
+  rhythmicContrast: 0.5
 purpose: []
